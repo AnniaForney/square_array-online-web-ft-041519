@@ -2,10 +2,9 @@ def square_array(array)
   array.each 
 end 
 
-def square_array(array) do 
-  x = 
+def square_array(array) 
 end
 
 def square_array(array) do 
-  square_array.collect
+  array.each 
 end 
